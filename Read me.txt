@@ -1,0 +1,2 @@
+There are two files. The "base_case_simulation" .rar file has a workbench simulation for SLM. 
+whereas the file "strain_simulation_data_at_z_9.536" has the strain data for 360 smaples, genrated using workbench additive software. 
